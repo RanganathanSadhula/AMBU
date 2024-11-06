@@ -1,0 +1,10 @@
+path: ambulance_dataset  # dataset root directory
+train: images/train  # train images
+val: images/val  # validation images
+
+# Classes
+names:
+  0: ambulance
+
+# Training parameters
+nc: 1  # number of classes
